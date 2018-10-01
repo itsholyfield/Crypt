@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458016414406",
+    "firebase_url": "https://chat-23002.firebaseio.com",
+    "project_id": "chat-23002",
+    "storage_bucket": "chat-23002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458016414406:android:3b8401354e185f7b",
+        "android_client_info": {
+          "package_name": "com.wandsworkstation.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458016414406-efp2dphkgic8hscuirh1kn8ppr0451jo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wandsworkstation.chat",
+            "certificate_hash": "b8d98047ae2fb0c8d49c5813aeca3ed6f820fd35"
+          }
+        },
+        {
+          "client_id": "458016414406-qska2k0u92ptvesr8qlvvi6cn5krbt9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsUurgAIam5exxOFhadl_QrKuopZI448"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458016414406-qska2k0u92ptvesr8qlvvi6cn5krbt9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
